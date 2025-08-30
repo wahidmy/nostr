@@ -5,6 +5,7 @@
   },
   "relays": {
     "fd2d703811b91ca0174538a55e499c3743bfb65b5fc7366c15f2a948bb77451c": [
+      "wss://relay.wahid.my",
       "wss://relay.lexingtonbitcoin.org",
       "wss://wot.girino.org",
       "wss://wot.utxo.one",
